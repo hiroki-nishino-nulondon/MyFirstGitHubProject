@@ -6,3 +6,6 @@ print("I added this line on GitHub to trigger a merge conflict between your loca
 
 print("Hello, I am your collaborator!")
 
+print("I added this line in a new branch: refactor.")
+
+
